@@ -50,6 +50,14 @@ fisher simple
 就我个人而言，[fish-shell] 的开箱即用再加上 [fisherman] 的几个插件已经满足我懒的大部分需求了。如果你像我一样懒，我建议你试试 [fish-shell] + [fisherman] 的组合。
 如果你有什么疑问，尽可在仓库下提交 issue, 我们目前有十几个各个国家的工程师在维护（嘿嘿）。
 
+最后，再放一张日常的开发的终端截图，就装了上面三个插件 z、fzf、simple。
+<p align="center">
+    <br>
+    <img src="https://rawgit.com/detailyang/blog/master/Fixures/fisherman.png" alt="Fisherman">
+    <br>
+    <br>
+</p>
+
 [fish-shell]: https://github.com/fish-shell/fish-shell
 [fisherman]: http://fisherman.sh
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
