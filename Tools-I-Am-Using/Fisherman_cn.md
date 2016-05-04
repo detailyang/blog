@@ -17,7 +17,8 @@ shell for OS X, Linux, and the rest of the family.
 如果你跟我一样很**懒**，并且知道自己在干什么，我还是推荐你尝试下 [fish-shell] 。
 
 #介绍
-在用 [fisherman] 之前， 我用过 [oh-my-zsh] 管理 zsh 的插件和主题，也用过 [oh-my-fish] 管理 [fish-shell] 的插件和主题。不过我实在是太懒了，懒得配置 [oh-my-zsh] 和 [oh-my-fish], 所以我最后选择了 [fisherman] 来管理 [fish-shell] 的插件和主题，当然有一点原因是我本身比较熟悉 [fisherman] 的代码，也是 [fisherman] 的维护者。`Eating your own dog food` 也是一种选择：）。就我个人使用 [fisherman] 的经验， [fisherman] 已足够简单，实乃懒人必备。
+在用 [fisherman] 之前， 我用过 [oh-my-zsh] 管理 zsh 的插件和主题，也用过 [oh-my-fish] 管理 [fish-shell] 的插件和主题。不过我实在是太懒了，懒得配置 [oh-my-zsh] 和 [oh-my-fish], 所以我最后选择了 [fisherman] 来管理 [fish-shell] 的插件和主题，当然有一点原因是我本身比较熟悉 [fisherman] 的代码，也是 [fisherman] 的维护者。`Eating your own dog food` 也是一种互联网文化：）。
+就我懒的水平， [fisherman] 已足够简单，实乃懒人必备。
 
 
 #安装     
