@@ -1,9 +1,10 @@
 <p align="center">
     <br>
-    <img width="700" src="https://rawgit.com/fisherman/logo/master/fisherman-blue-white.svg" alt="Fisherman">
+    <img width="700" src="https://rawgit.com/fisherman/fisherman.github.io/master/fisherman.svg" alt="fisherman">
     <br>
     <br>
 </p>
+
 #前言
 在介绍 [fisherman] 之前, 有必要先介绍下 [fish-shell] 。
 [fish-shell] 按照他官网的介绍，自称是现代化的命令行终结者：）。
